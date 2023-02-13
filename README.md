@@ -13,3 +13,8 @@ Businesses and manufacturing industries can gain insights into customer behaviou
 In the case of the current dataset under analysis, a Manual Car with In-line Cylindrical Configuration, 5 seats with an SUV Body Type is the demand of the market.
 
 It also helps manufacturer to estimate raw material usage, full tank size, costing, maintaining at a cost that makes the vehicle sellable, calls for improvement of automotive technology such that higher power can be reached with less amount of fuel expenditure for the customer.
+
+![Screenshot (106)](https://user-images.githubusercontent.com/88529671/218454641-97744e9f-32d8-4bf6-b6b8-a0acd2e07eb3.png)
+
+
+![Screenshot (107)](https://user-images.githubusercontent.com/88529671/218455022-218e5b57-96d7-48f0-9cca-6b4378167ad8.jpeg)
